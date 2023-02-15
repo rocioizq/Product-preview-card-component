@@ -15,7 +15,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Author
 
-- CodePen - [Add your name here](https://codepen.io/rocioizquierdo)
+- CodePen - [Rocio Izquierdo](https://codepen.io/rocioizquierdo)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rocioizq)
-- Twitter - [@yourusername](https://www.twitter.com/rocioizquierdoo)
+- Twitter - [@rocioizquierdoo](https://www.twitter.com/rocioizquierdoo)
 
