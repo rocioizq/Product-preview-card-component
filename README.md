@@ -2,3 +2,4 @@
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
+This is my first HTML and CSS project
