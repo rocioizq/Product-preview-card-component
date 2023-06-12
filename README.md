@@ -1,4 +1,4 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor - Responsive product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
